@@ -37,10 +37,6 @@ INSERT INTO `fruit` VALUES ('006', '苹果', '2', 'kg');
 INSERT INTO `fruit` VALUES ('007', '橘子', '2', '斤');
 INSERT INTO `fruit` VALUES ('008', '22', '22', '22');
 INSERT INTO `fruit` VALUES ('009', '22', '22', '22');
-INSERT INTO `fruit` VALUES ('011', '22', '22', '22');
-INSERT INTO `fruit` VALUES ('101', '苹果', '11', 'kg');
-INSERT INTO `fruit` VALUES ('102', '苹果', '11', 'kg');
-INSERT INTO `fruit` VALUES ('103', '苹果', '11', 'kg');
 
 -- ----------------------------
 -- Table structure for user
@@ -59,18 +55,4 @@ CREATE TABLE `user` (
 INSERT INTO `user` VALUES ('1', 'admin', 'admin');
 INSERT INTO `user` VALUES ('2', 'aa', 'aa');
 INSERT INTO `user` VALUES ('3', 'aaaa', '1234');
-INSERT INTO `user` VALUES ('4', 'sdaff', 'af');
-INSERT INTO `user` VALUES ('15', 'fsg', 'wDd');
-INSERT INTO `user` VALUES ('19', 'll', '1234');
-INSERT INTO `user` VALUES ('20', 'adfda', 'fda');
-INSERT INTO `user` VALUES ('21', 'dsafaeawf', 'dfa');
-INSERT INTO `user` VALUES ('22', 'qreq', 'req');
-INSERT INTO `user` VALUES ('23', '1234', 'req');
-INSERT INTO `user` VALUES ('25', 'adea', 'feafa');
-INSERT INTO `user` VALUES ('26', 'QWE', 'QEW');
-INSERT INTO `user` VALUES ('27', 'wqe', 'eqe');
-INSERT INTO `user` VALUES ('28', 'adminn', '1234');
-INSERT INTO `user` VALUES ('29', 'ddd', '1234');
-INSERT INTO `user` VALUES ('30', '1111', '1111');
-INSERT INTO `user` VALUES ('31', 'leo', '1234');
-INSERT INTO `user` VALUES ('32', 'llll', '1111');
+
